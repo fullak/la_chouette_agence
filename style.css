@@ -516,7 +516,7 @@ button {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    opacity: 0;
+    opacity: 0.8;
     z-index: 500;
     transition: all .3s ease-in-out;
 }
@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -701,7 +701,7 @@ p {
 
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: 30px auto auto auto;
 }
 
 h2 {
@@ -775,7 +775,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
@@ -823,6 +823,14 @@ h4 {
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.bmp");
+}
+
+.link {
+    margin-top: 30px;
+}
+
+.map {
+    margin: 25px 0 0 50px;
 }
 
 @media (max-width: 1024px) {
