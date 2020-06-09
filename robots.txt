@@ -1,2 +1,2 @@
-User-agent: *
-Disallow: /https://fullak.github.io/la_chouette_agence/index.html
+User-Agent: *
+Allow: /
