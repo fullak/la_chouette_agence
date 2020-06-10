@@ -264,6 +264,10 @@ a:hover {
     border-color: rgba(0, 0, 0, .3);
 }
 
+.fa-chevron-up {
+    position: fixed;
+}
+
 .voffset {
     margin-top: 30px;
 }
