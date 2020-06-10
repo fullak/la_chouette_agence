@@ -264,10 +264,6 @@ a:hover {
     border-color: rgba(0, 0, 0, .3);
 }
 
-.fa-chevron-up {
-    position: fixed;
-}
-
 .voffset {
     margin-top: 30px;
 }
@@ -526,7 +522,7 @@ button {
 }
 
 .scrollToTop span {
-    margin-top: 6px;
+    margin: -5px 0 -5px -7px;
 }
 
 .showScrollTop {
